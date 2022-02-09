@@ -1,0 +1,33 @@
+.uno {
+    background-image: url(./imagen/garden.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 800px 800px;
+}
+.dos {
+    text-align: center;
+    font-family: cursive;
+    background-color: rgb(4, 156, 4);
+}
+.tres {
+    text-align: center;
+    font-size: 50px;
+}
+.cuatro {
+    font-size: 20px;
+}
+.cinco {
+    font-size: 15px;
+} 
+.seis {
+    font-size: 20px;
+}
+.siete {
+    font-size: 20px;
+}
+#date {
+    width: 500px;
+    margin: 50px;
+    padding: 20;
+    
+}
