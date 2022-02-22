@@ -7,15 +7,14 @@
   </head>
   <body>
     
-    <header class="dos">Taller de jardineria y paisajismo
-      <h1 class="tres">Sumaq Garden</h1>
-    </header>
+    <header class="dos">Taller de jardineria y paisajismo</header>
+      
   
-    
-    <div id="paginaPrincipal" class="uno">
+    <h1 class="tres">Sumaq Garden</h1>
+    <section id="paginaPrincipal" class="uno">
       <p class="cuatro">Somos una empresa amadora de las areas verdes, <br>tenemos 8 años en el sector de diseño y 
-         mantenimiento de jardines. <br>Con el objetivo de contribuir a la conservaciòn del planeta <br>y 
-         mejorar las condiciones de vida de quienes lo habitamos, <br>brindamos talleres virtuales de
+         mantenimiento de<br> jardines.Con el objetivo de contribuir a la conservaciòn del <br>planeta y 
+         mejorar las condiciones de vida, <br>brindamos talleres virtuales de
          jardineria y paisajismo.<br>En el taller de jardineria y paisajismo aprenderàs:
           
       </p>
@@ -30,34 +29,33 @@
       *El riego en la jardineria.
       *Mantenimiento integral del jardin.
       *Como instalar plantas en macetas.
-      *Mantenimiento de topiarios.
-      *Cactus y suculentas.
       *Diseño de jardin.
       
       </pre>
-      <p class="seis">Taller virtual de 4 horas de 8am a 12am.<br>Costo de s/100</p>
-      <form>
-        <label for="nombre" class="siete">Nombre de usuario</label>
-        <input id="nombre"/>
+      <p class="seis">Taller virtual de 4 horas de 8am a 12am.<br>Costo de s/100<br></p>
+      
+        <button id="buttonBuy" class="nueve">Comprar curso</button>
 
-        <button id="buttonBuy">Comprar curso</button>
+      
 
-      </form>
+    </section>
 
-    </div>
-
-    <div id="date" style="display: none;">
+    <section id="date" class="ocho" style="display: none;">
        
 
-        <h2>Pagar con tarjeta de crédito</h2>
+        <h2 class="diez">Pagar con tarjeta de crédito</h2>
 
-        <input placeholder="Ingresa tu nùmero de tarjeta"><br>
-        <button id="buttonValidation">Validar tarjeta</button>
-       
+         <label for="nombre" class="siete">Nombre de usuario</label><br>
+        <input id="nombre" class="trece" type="text"/><br>
+
+        <input id="numberCard" class="once" type="number" maxlength="16" placeholder="Ingresa tu nùmero de tarjeta"/><br>
+        <button id="buttonValidation" class="doce">Validar tarjeta</button>
+
+        <p id="mensaje"></p><br>
         
-    </div>
-
-    
+        
+        <p class="catorce">Se entrega CERTIFICADO y podràs ver nuevamente las clases y materiales grabados cuando quieras y las veces que quieras.</p>
+    </section>
     
     <script src="index.js" type="module"></script>
   </body>

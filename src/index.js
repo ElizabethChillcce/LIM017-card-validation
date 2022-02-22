@@ -1,10 +1,5 @@
 import validator from './validator.js';
 
-console.log(validator);
-
-//alert("¡Hola! bienvenido(a) a Sumaq Garden");
-
-
 function mostrarPagina(){
     document.getElementById("paginaPrincipal").style.display="none";
     document.getElementById("date").style.display="block";
@@ -12,3 +7,29 @@ function mostrarPagina(){
 
 let buttonUno= document.getElementById("buttonBuy");
 buttonUno.addEventListener("click",mostrarPagina);
+
+let buttonValidation = document.getElementById("buttonValidation");
+buttonValidation.addEventListener("click",clickButton);
+
+function clickButton(){
+    let numberCard = document.getElementById("numberCard");
+    numberCard = numberCard.value;
+    console.log(numberCard);
+    let hashtag = validator.maskify(numberCard);
+      console.log(hashtag);
+    let validar = validator.isValid(numberCard);
+    console.log(validar);
+
+    let message = document.getElementById("mensaje");
+     if (validar === true) {
+         message.innerText = "Tarjeta vàlida" + hashtag;
+         message.classList.add("error-text");
+
+     } else {
+         message.innerText = "Tarjeta invàlida";
+         message.classList.add("error-text");
+    }
+   
+    
+}
+

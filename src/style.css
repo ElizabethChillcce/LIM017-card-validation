@@ -12,22 +12,76 @@
 .tres {
     text-align: center;
     font-size: 50px;
+    text-decoration: underline;
+    color: black;
 }
 .cuatro {
     font-size: 20px;
+    font-weight: bold;
 }
 .cinco {
     font-size: 15px;
+    color: rgb(3, 71, 3);
+    font-weight: bold;
+    margin-bottom: -40px;
 } 
 .seis {
     font-size: 20px;
+    font-weight: bold;
 }
 .siete {
-    font-size: 20px;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 560px;
 }
-#date {
-    width: 500px;
-    margin: 50px;
-    padding: 20;
-    
+.ocho {
+    background-image: url(../imagen/jardin.jpg);
+    background-size: cover;
+     
+}
+.nueve {
+    background-color: rgb(189, 6, 6);
+    color: white;
+    font-size: 20px;
+    width: 12;
+    margin-top: 1%;
+    margin-left: 150px;
+}
+.diez {
+    color: white;
+    font-size: 40px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.once {
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 590px;
+
+}
+.doce {
+    padding: 5px 10px;
+    font-size: 16px;
+    text-align: center;
+    margin-top: 20px;
+    margin-left: 620px;
+    background-color: rgb(189, 6, 6);
+    color: white;
+
+}
+.trece {
+    margin-left: 590px;
+}
+.catorce {
+    margin-top: 150px;
+    font-size: 25px;
+    color: white;
+}
+.error-text {
+    color: blue;
+    font-weight: bold;
+    margin-left: 580px;
+    font-size: 30px;
 }
