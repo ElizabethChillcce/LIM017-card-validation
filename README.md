@@ -27,12 +27,12 @@ par se les debe multiplicar por dos, si este número es mayor o igual a 10,
 debemos sumar los dígitos del resultado; el número a verificar será válido si
 la suma de sus dígitos finales es un múltiplo de 10.
 
-![gráfica de algoritmo de Luhn](https://www.101computing.net/wp/wp-content/uploads/Luhn-Algorithm.png)
+![Prototipo](https://github.com/ElizabethChillcce/LIM017-card-validation/blob/main/src/imagen/garden.jpg)
 
 ## 2. Resumen del proyecto
 
 En este proyecto tendrás que construir una aplicación web que le permita a un
-usuario validar el número de una tarjeta de crédito. Además, tendrás que
+usuario validarde una tarjeta de crédito. Además, tendrás que
 implementar funcionalidad para ocultar todos los dígitos de una tarjeta menos
 los últimos cuatro.
 
