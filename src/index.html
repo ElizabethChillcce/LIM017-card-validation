@@ -5,7 +5,7 @@
     <title>Tarjeta de crédito válida</title>
     <link rel="stylesheet" href="style.css" />
   </head>
-  <body>
+  <body class="plant">
     
     <header class="dos">Taller de jardineria y paisajismo</header>
       
@@ -42,20 +42,22 @@
 
     <section id="date" class="ocho" style="display: none;">
        
-
-        <h2 class="diez">Pagar con tarjeta de crédito</h2>
+         <div class="quince">
+        <h2 class="diez">Pago con tarjeta de crédito</h2>
 
          <label for="nombre" class="siete">Nombre de usuario</label><br>
         <input id="nombre" class="trece" type="text"/><br>
 
-        <input id="numberCard" class="once" type="number" maxlength="16" placeholder="Ingresa tu nùmero de tarjeta"/><br>
+        <p class="dieciseis">Ingrese su nùmero de tarjeta:</p>
+        <input id="numberCard" class="once" type="number" placeholder="Ingresa tu nùmero de tarjeta"/><br>
+
         <button id="buttonValidation" class="doce">Validar tarjeta</button>
 
         <p id="mensaje"></p><br>
         
-        
+         </div>
         <p class="catorce">Se entrega CERTIFICADO y podràs ver nuevamente las clases y materiales grabados cuando quieras y las veces que quieras.</p>
-    </section>
+      </section>
     
     <script src="index.js" type="module"></script>
   </body>

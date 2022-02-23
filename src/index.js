@@ -22,11 +22,11 @@ function clickButton(){
 
     let message = document.getElementById("mensaje");
      if (validar === true) {
-         message.innerText = "Tarjeta vàlida" + hashtag;
+         message.innerText = "TARJETA VALIDA " + hashtag;
          message.classList.add("error-text");
 
      } else {
-         message.innerText = "Tarjeta invàlida";
+         message.innerText = "TARJETA INVALIDA";
          message.classList.add("error-text");
     }
    
