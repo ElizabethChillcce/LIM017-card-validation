@@ -1,17 +1,25 @@
-# Tarjeta de crédito válida
+####                           SUMAQ GARDEN
 
-## Índice
+Este proyecto trata sobre la venta de un curso virtual de jardineria y paisajismo  su
+compra es a travèz de tarjeta de crèdito para ello el cliente tendrà q validar su tajeta
+cuando ingrese sus nùmeros q tambièn seràn enmascarados solo los ùltimos cuatro nùmeros no.
 
-* [1. Preámbulo](#1-preámbulo)
-* [2. Resumen del proyecto](#2-resumen-del-proyecto)
-* [3. Objetivos de aprendizaje](#3-objetivos-de-aprendizaje)
-* [4. Consideraciones generales](#4-consideraciones-generales)
-* [5. Criterios de aceptación mínimos del proyecto](#5-criterios-de-aceptación-mínimos-del-proyecto)
-* [6. Hacker edition](#6-hacker-edition)
-* [7. Consideraciones técnicas](#7-consideraciones-técnicas)
-* [8. Pistas, tips y lecturas complementarias](#8-pistas-tips-y-lecturas-complementarias)
-* [9. Checklist](#9-checklist)
 
+###  EXPLICACION UX:
+### Explicar quienes son los usuarios y los objetivos en relaciòn con el producto.
+Los potenciales usuarios son: ingenieros agrònomos, arquitectos, jardineros y toda persona
+apasionada con la naturaleza y las àreas verdes.
+El objetivo del curso es que aprendan a preparar la tierra para el sembrado de las plantas
+y todo tipo de grass como tambièn el uso de abonos y fertilizantes.
+Que aprendan a reconocer las plantas de interior y exterior, como tambièn enseñarles el 
+cuidado, riego y fumigaciòn de las plantas.
+### Explicar como el producto soluciona los problemas y necesidades del usuario.
+Nuestros usuarios son personas que quieren implementar en sus trabajos el diseño y mantenimiento
+de las àreas verdes o profundizar sus conocimientos en ello como tambìen personas apasionadas
+de las àreas verdes q desean ellos mismos hacer sus propios jardines en sus hogares.
+### Resumen del feedback recibido:
+En el primer sprint solo presente en mi proyecto html y css y nada de funcionalidad la couch y mis
+compañeras me aconsejaron que empiece a codear aunque con miedo q lo haga, un gran feedback me dieron.
 ***
 
 ## 1. Preámbulo
@@ -545,22 +553,25 @@ Esta sección está para ayudarte a llevar un control de lo que vas completando.
 * [ ] Interfaz muestra la franquicia de la tarjeta
 
 
-#**                         `SUMAQ GARDEN`**
+####                           SUMAQ GARDEN
 
 Este proyecto trata sobre la venta de un curso virtual de jardineria y paisajismo  su
 compra es a travèz de tarjeta de crèdito para ello el cliente tendrà q validar su tajeta
 cuando ingrese sus nùmeros q tambièn seràn enmascarados solo los ùltimos cuatro nùmeros no.
 
 
-##  EXPLICACION UX
-
+###  EXPLICACION UX:
 ### Explicar quienes son los usuarios y los objetivos en relaciòn con el producto.
-
-
-
+Los potenciales usuarios son: ingenieros agrònomos, arquitectos, jardineros y toda persona
+apasionada con la naturaleza y las àreas verdes.
+El objetivo del curso es que aprendan a preparar la tierra para el sembrado de las plantas
+y todo tipo de grass como tambièn el uso de abonos y fertilizantes.
+Que aprendan a reconocer las plantas de interior y exterior, como tambièn enseñarles el 
+cuidado, riego y fumigaciòn de las plantas.
 ### Explicar como el producto soluciona los problemas y necesidades del usuario.
-
-
-
-
-
+Nuestros usuarios son personas que quieren implementar en sus trabajos el diseño y mantenimiento
+de las àreas verdes o profundizar sus conocimientos en ello como tambìen personas apasionadas
+de las àreas verdes q desean ellos mismos hacer sus propios jardines en sus hogares.
+### Resumen del feedback recibido:
+En el primer sprint solo presente en mi proyecto html y css y nada de funcionalidad la couch y mis
+compañeras me aconsejaron que empiece a codear aunque con miedo q lo haga, un gran feedback me dieron.
