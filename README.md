@@ -543,3 +543,5 @@ Esta sección está para ayudarte a llevar un control de lo que vas completando.
 
 * [ ] Implementa `validator.getIssuer`.
 * [ ] Interfaz muestra la franquicia de la tarjeta
+
+##Sumaq Garden
