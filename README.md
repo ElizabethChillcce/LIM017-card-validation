@@ -22,7 +22,7 @@ de las àreas verdes q desean ellos mismos hacer sus propios jardines en sus hog
 En el primer sprint solo presente en mi proyecto html y css y nada de funcionalidad la couch y mis
 compañeras me aconsejaron que empiece a codear aunque con miedo q lo haga, un gran feedback me dieron.
 ***
-![Prototipo](https://C:\Users\Carolina\LIM017-card-validation\primer bosquejo.jpg)
+![Prototipo](https://github.com/ElizabethChillcce/LIM017-card-validation/blob/main/primer%20bosquejo.jpg)
 ![Prototipo](https://C:\Users\Carolina\LIM017-card-validation\prototipo.jpg)
 ## 1. Preámbulo
 
