@@ -3,9 +3,10 @@
 Este proyecto trata sobre la venta de un curso virtual de jardineria y paisajismo  su
 compra es a travèz de tarjeta de crèdito para ello el cliente tendrà q validar su tajeta
 cuando ingrese sus nùmeros q tambièn seràn enmascarados solo los ùltimos cuatro nùmeros no.
-![Prototipo](https://github.com/ElizabethChillcce/LIM017-card-validation/blob/main/src/imagen/garden.jpg)
+
 ![Prototipo](https://github.com/ElizabethChillcce/LIM017-card-validation/blob/main/caratula.png)
-![Prototipo](https://C:\Users\Carolina\LIM017-card-validation\tarjeta.jpg)
+![Prototipo](https://github.com/ElizabethChillcce/LIM017-card-validation/blob/main/Proyecto.png)
+
 ###  EXPLICACION UX:
 ### Explicar quienes son los usuarios y los objetivos en relaciòn con el producto.
 Los potenciales usuarios son: ingenieros agrònomos, arquitectos, jardineros y toda persona
