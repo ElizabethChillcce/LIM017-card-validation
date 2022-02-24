@@ -23,7 +23,7 @@ En el primer sprint solo presente en mi proyecto html y css y nada de funcionali
 compañeras me aconsejaron que empiece a codear aunque con miedo q lo haga, un gran feedback me dieron.
 ***
 ![Prototipo](https://github.com/ElizabethChillcce/LIM017-card-validation/blob/main/primer%20bosquejo.jpg)
-![Prototipo](https://C:\Users\Carolina\LIM017-card-validation\prototipo.jpg)
+![Prototipo]()
 ## 1. Preámbulo
 
 El [algoritmo de Luhn](https://es.wikipedia.org/wiki/Algoritmo_de_Luhn),
