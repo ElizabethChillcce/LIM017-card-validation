@@ -544,4 +544,23 @@ Esta sección está para ayudarte a llevar un control de lo que vas completando.
 * [ ] Implementa `validator.getIssuer`.
 * [ ] Interfaz muestra la franquicia de la tarjeta
 
-## GARDEN SUMAQ
+
+#**                         `SUMAQ GARDEN`**
+
+Este proyecto trata sobre la venta de un curso virtual de jardineria y paisajismo  su
+compra es a travèz de tarjeta de crèdito para ello el cliente tendrà q validar su tajeta
+cuando ingrese sus nùmeros q tambièn seràn enmascarados solo los ùltimos cuatro nùmeros no.
+
+
+##  EXPLICACION UX
+
+### Explicar quienes son los usuarios y los objetivos en relaciòn con el producto.
+
+
+
+### Explicar como el producto soluciona los problemas y necesidades del usuario.
+
+
+
+
+
