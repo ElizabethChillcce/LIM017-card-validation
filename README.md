@@ -1,10 +1,11 @@
-####                           SUMAQ GARDEN
+#                         SUMAQ GARDEN
 
 Este proyecto trata sobre la venta de un curso virtual de jardineria y paisajismo  su
 compra es a travèz de tarjeta de crèdito para ello el cliente tendrà q validar su tajeta
 cuando ingrese sus nùmeros q tambièn seràn enmascarados solo los ùltimos cuatro nùmeros no.
-
-
+![Prototipo](https://github.com/ElizabethChillcce/LIM017-card-validation/blob/main/src/imagen/garden.jpg)
+![Prototipo](https://C:\Users\Carolina\LIM017-card-validation\sumaq garden.jpg)
+![Prototipo](https://C:\Users\Carolina\LIM017-card-validation\tarjeta.jpg)
 ###  EXPLICACION UX:
 ### Explicar quienes son los usuarios y los objetivos en relaciòn con el producto.
 Los potenciales usuarios son: ingenieros agrònomos, arquitectos, jardineros y toda persona
@@ -21,7 +22,8 @@ de las àreas verdes q desean ellos mismos hacer sus propios jardines en sus hog
 En el primer sprint solo presente en mi proyecto html y css y nada de funcionalidad la couch y mis
 compañeras me aconsejaron que empiece a codear aunque con miedo q lo haga, un gran feedback me dieron.
 ***
-
+![Prototipo](https://C:\Users\Carolina\LIM017-card-validation\primer bosquejo.jpg)
+![Prototipo](https://C:\Users\Carolina\LIM017-card-validation\prototipo.jpg)
 ## 1. Preámbulo
 
 El [algoritmo de Luhn](https://es.wikipedia.org/wiki/Algoritmo_de_Luhn),
@@ -553,25 +555,6 @@ Esta sección está para ayudarte a llevar un control de lo que vas completando.
 * [ ] Interfaz muestra la franquicia de la tarjeta
 
 
-####                           SUMAQ GARDEN
-
-Este proyecto trata sobre la venta de un curso virtual de jardineria y paisajismo  su
-compra es a travèz de tarjeta de crèdito para ello el cliente tendrà q validar su tajeta
-cuando ingrese sus nùmeros q tambièn seràn enmascarados solo los ùltimos cuatro nùmeros no.
 
 
-###  EXPLICACION UX:
-### Explicar quienes son los usuarios y los objetivos en relaciòn con el producto.
-Los potenciales usuarios son: ingenieros agrònomos, arquitectos, jardineros y toda persona
-apasionada con la naturaleza y las àreas verdes.
-El objetivo del curso es que aprendan a preparar la tierra para el sembrado de las plantas
-y todo tipo de grass como tambièn el uso de abonos y fertilizantes.
-Que aprendan a reconocer las plantas de interior y exterior, como tambièn enseñarles el 
-cuidado, riego y fumigaciòn de las plantas.
-### Explicar como el producto soluciona los problemas y necesidades del usuario.
-Nuestros usuarios son personas que quieren implementar en sus trabajos el diseño y mantenimiento
-de las àreas verdes o profundizar sus conocimientos en ello como tambìen personas apasionadas
-de las àreas verdes q desean ellos mismos hacer sus propios jardines en sus hogares.
-### Resumen del feedback recibido:
-En el primer sprint solo presente en mi proyecto html y css y nada de funcionalidad la couch y mis
-compañeras me aconsejaron que empiece a codear aunque con miedo q lo haga, un gran feedback me dieron.
+
