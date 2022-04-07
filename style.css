@@ -1,0 +1,120 @@
+.plant {
+    background-image: url(./imagen/fondo.jpg);
+}
+.uno {
+    background-image: url(./imagen/garden.jpg);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 800px 800px;
+}
+.dos {
+    text-align: center;
+    font-family: cursive;
+    background-color: rgb(4, 156, 4);
+}
+.tres {
+    text-align: center;
+    font-size: 50px;
+    text-decoration: underline;
+    color: black;
+}
+.cuatro {
+    font-size: 20px;
+    font-weight: bold;
+}
+.cinco {
+    font-size: 15px;
+    color: rgb(72, 8, 248);
+    font-weight: bold;
+    margin-bottom: -40px;
+} 
+.seis {
+    font-size: 20px;
+    font-weight: bold;
+}
+.siete {
+    color: white;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 80px;
+}
+.ocho {
+    background-image: url(../imagen/jardin.jpg);
+    background-size: cover;  
+}
+.nueve {
+    background-color: rgb(189, 6, 6);
+    color: white;
+    font-size: 20px;
+    width: 12;
+    margin-top: 1%;
+    margin-left: 150px;
+    border-radius: 10px;
+}
+.diez {
+    color: rgb(236, 253, 2);
+    font-size: 40px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.once {
+    margin-bottom: 10px;
+    margin-left: 60px;
+    border-radius: 10px;
+    width: 250px;
+    height: 20px;
+    background : rgba(5, 7, 12, 0.40);
+    color : white;
+    border: 3px solid;
+}
+.doce {
+    margin-top: 10px;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 110px;
+    background-color: rgb(189, 6, 6);
+    color: white;
+    border-radius: 10px;
+    height: 40px;
+    width: 150px;
+    padding: 5px 10px;   
+}
+.trece {
+    margin-left: 60px;
+    border-radius: 10px;
+    margin-bottom: 1px;
+    margin-top: 10px;
+    width: 250px;
+    height: 20px;
+    background : rgba(5, 7, 12, 0.40);
+    color : white;
+    font-size : 15px;
+    border: 3px solid;
+}
+.catorce {
+    margin-top: 32px;
+    font-size: 24px;
+    color: rgb(10, 14, 230);
+    font-weight: bold;
+}
+.error-text {
+    color: rgb(31, 8, 236);
+    font-weight: bold;
+    margin-left: 85px;
+    font-size: 28px;
+}
+.quince {
+    border-radius: 4px;
+    background: rgba(5 ,7, 12, 0.60);
+    width: 395px;
+    padding: 20px 20px 10px 20px;
+    margin-left: 470px;
+}
+.dieciseis {
+    color: white;
+    font-size: 28px;
+    text-align: center;
+    margin-left: 40px;
+}
